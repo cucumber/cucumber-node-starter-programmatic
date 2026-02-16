@@ -1,0 +1,10 @@
+{
+  "name": "cucumber-node-starter-programmatic",
+  "version": "0.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {},
+  "devDependencies": {
+    "@cucumber/node": "^0.3.0"
+  }
+}
