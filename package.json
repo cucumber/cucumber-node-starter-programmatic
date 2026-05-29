@@ -5,6 +5,6 @@
   "private": true,
   "scripts": {},
   "devDependencies": {
-    "@cucumber/node": "^0.6.0"
+    "@cucumber/node": "^0.7.0"
   }
 }
